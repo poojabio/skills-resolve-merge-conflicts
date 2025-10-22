@@ -1,8 +1,9 @@
+
 # GitHub Teacher
 
 Charting the knowledge of the Internet, just like Galileo charted the stars.
 
-## Jobs interviewer
+## Jobs changed
 
 ### GitHub Trainer
 
@@ -21,3 +22,7 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership
 
 Managed multiple asynchronous teams in the developm
+=======
+# References
+
+* octocat 1 😈
